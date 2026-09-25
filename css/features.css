@@ -18,9 +18,10 @@
 .features-icon-wrapper {
   display: flex;
   justify-content: center;
-  padding: 23px 0;
+  align-items: center;
+  height: 112px;
   margin-bottom: 8px;
-  border: 1px solid rgba(46, 47, 66, 0.08);
+  border: 1px solid #8e8f99;
   border-radius: 4px;
   background-color: #f4f4fd;
 }
